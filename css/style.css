@@ -1,0 +1,85 @@
+body{
+    font-family: 'Castoro', serif;
+}
+.container, .intro{
+    width: 1296px;
+    margin: 0 auto;
+}
+h1, h2{
+    font-size: 128px;
+    line-height: 192px;
+    letter-spacing: 15.36px;
+}
+h1{
+    margin-top: 160px;
+}
+h2{
+    margin-left: 660px;
+}
+.container img{
+    display: block;
+    margin-left: 330px;
+}
+.container-full{
+    background: #EFEFEF;
+}
+.intro{
+    padding: 48px 0;
+}
+.intro p{
+    width: 636px;
+    margin-left: 660px;
+    font-size: 32px;
+    line-height: 48px;
+}
+.mb-80{
+    margin-bottom: 80px;
+}
+
+.name, .edu, .work, .awards{
+    width: 636px;
+}
+h3{
+    font-size: 40px;
+    line-height: 60px;
+    color: #AE0000;
+    border-bottom: 3px solid #AE0000;
+}
+.mb-16{
+    margin-bottom: 16px;
+}
+li{
+    font-size: 24px;
+    line-height: 36px;
+}
+.period{
+    font-size: 20px;
+    line-height: 30px;
+    font-style: italic;
+    color: #949494;
+}
+.mb-8{
+    margin-bottom: 8px;
+}
+.mb-40{
+    margin-bottom: 40px;
+}
+.mb-12{
+    margin-bottom: 12px;
+}
+.mb-160{
+    margin-bottom: 160px;
+}
+.social{
+    display: inline;
+    width: 64px;
+    margin: 0 20px;
+}
+.social img{
+    vertical-align: middle;
+}
+.footer{
+    text-align: center;
+    padding: 64px 0;
+    background: black;
+}
